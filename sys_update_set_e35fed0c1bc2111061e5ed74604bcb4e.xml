@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2022-09-20 09:08:04">
+<sys_update_set action="INSERT_OR_UPDATE">
+<application display_value="Social Knowledge">11722b01473231007f47563dbb9a7154</application>
+<base_update_set display_value=""/>
+<completed_by display_value=""/>
+<completed_on>2022-09-15 10:06:22</completed_on>
+<description/>
+<install_date/>
+<installed_from/>
+<is_default>false</is_default>
+<merged_to display_value=""/>
+<name>Update Set Test</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_sys_id display_value=""/>
+<state>in progress</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-09-15 10:06:45</sys_created_on>
+<sys_id>e35fed0c1bc2111061e5ed74604bcb4e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-09-15 10:06:45</sys_updated_on>
+</sys_update_set>
+</unload>
